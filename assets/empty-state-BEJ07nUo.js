@@ -1,0 +1,1 @@
+import{j as e}from"./vendor-react-Cp3YSlJs.js";function o({msg:r}){return e.jsx("div",{className:"flex flex-col items-center justify-center rounded-[16px] border border-[var(--color-border)] bg-[var(--panel-bg)] p-12 text-center",children:e.jsx("p",{className:"text-sm text-[var(--color-text-secondary)]",children:r})})}export{o as E};
